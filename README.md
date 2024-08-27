@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-My name is Bakhita Otieno and I love making websites
+I am a passionate and detail-oriented software engineer with a strong foundation in both frontend and backend development.On the front end i am skilled in HTML, Javascript along with frameworks like react and on the backend Python and node.js enabling me to build dynamic and secure web applications. If you’re looking for a dedicated software engineer I would love to connect!
 
 
 ## 🌐 Socials:
