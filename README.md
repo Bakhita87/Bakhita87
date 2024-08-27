@@ -2,8 +2,7 @@
 
 
 # 💫 About Me:
-I am a passionate and detail-oriented software engineer with a strong foundation in both frontend and backend development.On the front end i am skilled in HTML, Javascript along with frameworks like react and on the backend Python and node.js enabling me to build dynamic and secure web applications. If you’re looking for a dedicated software engineer I would love to connect!
-
+I’m a dedicated software engineer passionate about creating efficient and innovative solutions. With experience in various programming languages and frameworks, I thrive on tackling challenging projects and contributing to open-source communities. I’m always eager to learn new technologies and collaborate with others to drive impactful results. Let’s connect and build something great together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bakhita Otieno) 
